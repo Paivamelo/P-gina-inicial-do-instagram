@@ -1,2 +1,2 @@
-# P-gina-inicial-do-instagram
-Recriação dá pagina inicial do Instagram 
+# Pagina-inicial-do-instagram
+Recriação da pagina inicial do Instagram 
